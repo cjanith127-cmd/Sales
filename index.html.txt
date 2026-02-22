@@ -1,0 +1,106 @@
+Create a modern, professional, responsive e-commerce website using HTML, CSS, and JavaScript for a computer shop named "LADRO COMPUTERS".
+
+Business Type:
+Computer, Laptop, and Accessories Sales Store
+
+Design Style:
+Modern, clean, tech-style, professional
+Color theme: Red, Black, White
+Use smooth animations and hover effects
+
+Website Sections Required:
+
+1. Header / Navigation Bar
+
+* Logo: LADRO COMPUTERS (Red color)
+* Menu items:
+  Home
+  Products
+  Categories
+  About
+  Contact
+  Cart icon
+
+2. Hero Section
+
+* Big banner with computer shop image
+* Text:
+  "Welcome to LADRO COMPUTERS"
+  "Best Computers, Laptops & Accessories in Sri Lanka"
+* Shop Now button
+
+3. Categories Section
+   Show category cards with images:
+
+* Laptops
+* Desktop Computers
+* Computer Accessories
+* Gaming Accessories
+
+Each card should have hover effect
+
+4. Products Section
+   Show product cards with:
+
+* Product image
+* Product name
+* Price (Rs)
+* Add to Cart button
+
+Use JavaScript Add to Cart functionality
+
+5. About Section
+   Text:
+   "LADRO COMPUTERS is a trusted computer shop selling laptops, desktops, and accessories with best prices and quality service."
+
+6. Contact Section
+
+Contact details:
+
+Shop Name: LADRO COMPUTERS
+Phone: 0741742311  / 0372281677
+Email: [ladrokuliyapitiya56@gmail.com](mailto:ladrocomputers@gmail.com)
+Location: Kuliyapitiya
+
+Contact form with:
+
+Name
+Email
+Message
+Send button
+
+7. Footer
+
+Show:
+
+Logo
+Quick Links
+Contact Info
+Copyright text:
+© 2026 LADRO COMPUTERS
+
+Functional Requirements:
+
+* Fully responsive (Mobile + Desktop)
+* Add to Cart using JavaScript
+* Smooth scrolling
+* Hover animations
+* Clean and professional layout
+
+Technical Requirements:
+
+Separate files:
+
+index.html
+style.css
+script.js
+
+Use only:
+
+HTML
+CSS
+JavaScript
+
+Do NOT use bootstrap
+
+Make it professional like a real computer shop website.
